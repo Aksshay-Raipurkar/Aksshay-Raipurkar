@@ -1,6 +1,5 @@
 # Aksshay Raipurkar - QA Analyst
 
-![QA Analyst](https://via.placeholder.com/150)
 
 ## About Me
 Detail-oriented QA Manual Tester with 6+ months of internship experience. Skilled in creating test cases, identifying errors, and ensuring software quality. Passionate about delivering high-quality products for a seamless customer experience.
